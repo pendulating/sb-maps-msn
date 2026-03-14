@@ -1,0 +1,14 @@
+{
+    "name": "Norfolk",
+    "code": "ORF",
+    "description": "Criss-cross the Chesapeake Bay to serve the sprawling Hampton Roads area.",
+    "population": 755000,
+    "initialViewState": {
+	"zoom": 12,
+	"latitude": 36.913529,
+	"longitude": -76.321335,
+	"bearing": 0
+		},
+    "creator": "muffintime",
+    "version": "1.4.0"
+}
