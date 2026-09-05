@@ -1,0 +1,2202 @@
+[
+ {
+  "name": "Oakhill Correctional Institution",
+  "code": "P550003502043",
+  "lon": -89.393524,
+  "lat": 42.962036,
+  "students": 1,
+  "staff": 2,
+  "level": 3,
+  "sector": "public"
+ },
+ {
+  "name": "Grow Academy",
+  "code": "P550003503005",
+  "lon": -89.386104,
+  "lat": 42.951193,
+  "students": 2,
+  "staff": 2,
+  "level": 3,
+  "sector": "public"
+ },
+ {
+  "name": "Central Wisconsin Center",
+  "code": "P550003602111",
+  "lon": -89.3943,
+  "lat": 43.1395,
+  "students": 1,
+  "staff": 4,
+  "level": 4,
+  "sector": "public"
+ },
+ {
+  "name": "Mendota Mental Health Institution",
+  "code": "P550003602122",
+  "lon": -89.4021,
+  "lat": 43.1332,
+  "students": 25,
+  "staff": 4,
+  "level": 4,
+  "sector": "public"
+ },
+ {
+  "name": "Isthmus Montessori Academy Public",
+  "code": "P550008203085",
+  "lon": -89.354243,
+  "lat": 43.119182,
+  "students": 208,
+  "staff": 13,
+  "level": 4,
+  "sector": "public"
+ },
+ {
+  "name": "One City Elementary School",
+  "code": "P550008303087",
+  "lon": -89.341981,
+  "lat": 43.045778,
+  "students": 317,
+  "staff": 40,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "One City Preparatory Academy",
+  "code": "P550008303385",
+  "lon": -89.341981,
+  "lat": 43.045778,
+  "students": 138,
+  "staff": 15,
+  "level": 2,
+  "sector": "public"
+ },
+ {
+  "name": "Milestone Democratic School",
+  "code": "P550008503136",
+  "lon": -89.295513,
+  "lat": 43.059039,
+  "students": 42,
+  "staff": 13,
+  "level": 3,
+  "sector": "public"
+ },
+ {
+  "name": "Belleville High",
+  "code": "P550099000132",
+  "lon": -89.546304,
+  "lat": 42.857739,
+  "students": 282,
+  "staff": 40,
+  "level": 3,
+  "sector": "public"
+ },
+ {
+  "name": "Belleville Middle",
+  "code": "P550099000133",
+  "lon": -89.546304,
+  "lat": 42.857739,
+  "students": 134,
+  "staff": 21,
+  "level": 2,
+  "sector": "public"
+ },
+ {
+  "name": "Belleville Elementary",
+  "code": "P550099001211",
+  "lon": -89.541647,
+  "lat": 42.858692,
+  "students": 495,
+  "staff": 72,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Wisconsin Heights Elementary",
+  "code": "P550123000170",
+  "lon": -89.769785,
+  "lat": 43.156431,
+  "students": 376,
+  "staff": 59,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Wisconsin Heights High",
+  "code": "P550123000172",
+  "lon": -89.769785,
+  "lat": 43.156431,
+  "students": 219,
+  "staff": 30,
+  "level": 3,
+  "sector": "public"
+ },
+ {
+  "name": "Wisconsin Heights Middle",
+  "code": "P550123000609",
+  "lon": -89.769785,
+  "lat": 43.156431,
+  "students": 154,
+  "staff": 25,
+  "level": 2,
+  "sector": "public"
+ },
+ {
+  "name": "Cambridge Elementary",
+  "code": "P550210000254",
+  "lon": -89.029424,
+  "lat": 43.002108,
+  "students": 430,
+  "staff": 59,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Cambridge High",
+  "code": "P550210000255",
+  "lon": -89.010313,
+  "lat": 43.0055,
+  "students": 241,
+  "staff": 42,
+  "level": 3,
+  "sector": "public"
+ },
+ {
+  "name": "Nikolay Middle",
+  "code": "P550210000298",
+  "lon": -89.0159,
+  "lat": 43.0017,
+  "students": 207,
+  "staff": 28,
+  "level": 2,
+  "sector": "public"
+ },
+ {
+  "name": "Koshkonong Trails School",
+  "code": "P550210003093",
+  "lon": -89.015325,
+  "lat": 42.97745,
+  "students": 33,
+  "staff": 6,
+  "level": 3,
+  "sector": "public"
+ },
+ {
+  "name": "Yahara Elementary",
+  "code": "P550318000108",
+  "lon": -89.357261,
+  "lat": 43.249661,
+  "students": 354,
+  "staff": 48,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Eagle Point Elementary",
+  "code": "P550318000354",
+  "lon": -89.332365,
+  "lat": 43.248564,
+  "students": 376,
+  "staff": 80,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "De Forest High",
+  "code": "P550318000355",
+  "lon": -89.326847,
+  "lat": 43.244692,
+  "students": 1099,
+  "staff": 141,
+  "level": 3,
+  "sector": "public"
+ },
+ {
+  "name": "De Forest Middle",
+  "code": "P550318000356",
+  "lon": -89.33551,
+  "lat": 43.242237,
+  "students": 561,
+  "staff": 82,
+  "level": 2,
+  "sector": "public"
+ },
+ {
+  "name": "Windsor Elementary",
+  "code": "P550318000360",
+  "lon": -89.332275,
+  "lat": 43.217791,
+  "students": 530,
+  "staff": 72,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Holum Education Center",
+  "code": "P550318002368",
+  "lon": -89.334913,
+  "lat": 43.242579,
+  "students": 313,
+  "staff": 0,
+  "level": 0,
+  "sector": "public"
+ },
+ {
+  "name": "Harvest Intermediate School",
+  "code": "P550318003152",
+  "lon": -89.329159,
+  "lat": 43.219159,
+  "students": 914,
+  "staff": 120,
+  "level": 2,
+  "sector": "public"
+ },
+ {
+  "name": "Deerfield Elementary",
+  "code": "P550327000370",
+  "lon": -89.0841,
+  "lat": 43.0489,
+  "students": 420,
+  "staff": 70,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Deerfield High",
+  "code": "P550327000371",
+  "lon": -89.0803,
+  "lat": 43.047,
+  "students": 217,
+  "staff": 32,
+  "level": 3,
+  "sector": "public"
+ },
+ {
+  "name": "Deerfield Middle",
+  "code": "P550327000372",
+  "lon": -89.0803,
+  "lat": 43.047,
+  "students": 114,
+  "staff": 19,
+  "level": 2,
+  "sector": "public"
+ },
+ {
+  "name": "Edgerton Community Elementary",
+  "code": "P550411000442",
+  "lon": -89.071556,
+  "lat": 42.842652,
+  "students": 844,
+  "staff": 112,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Edgerton High",
+  "code": "P550411000443",
+  "lon": -89.0736,
+  "lat": 42.8424,
+  "students": 543,
+  "staff": 66,
+  "level": 3,
+  "sector": "public"
+ },
+ {
+  "name": "Edgerton Middle",
+  "code": "P550411000444",
+  "lon": -89.075896,
+  "lat": 42.841802,
+  "students": 424,
+  "staff": 55,
+  "level": 2,
+  "sector": "public"
+ },
+ {
+  "name": "James Wright Middle",
+  "code": "P550852000373",
+  "lon": -89.4003,
+  "lat": 43.0485,
+  "students": 256,
+  "staff": 46,
+  "level": 2,
+  "sector": "public"
+ },
+ {
+  "name": "Spring Harbor Middle",
+  "code": "P550852000649",
+  "lon": -89.472248,
+  "lat": 43.081212,
+  "students": 263,
+  "staff": 38,
+  "level": 2,
+  "sector": "public"
+ },
+ {
+  "name": "Sandburg Elementary",
+  "code": "P550852000920",
+  "lon": -89.3128,
+  "lat": 43.1364,
+  "students": 392,
+  "staff": 76,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Lindbergh Elementary",
+  "code": "P550852000921",
+  "lon": -89.3885,
+  "lat": 43.1434,
+  "students": 180,
+  "staff": 32,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Cherokee Heights Middle",
+  "code": "P550852000922",
+  "lon": -89.449201,
+  "lat": 43.041913,
+  "students": 553,
+  "staff": 70,
+  "level": 2,
+  "sector": "public"
+ },
+ {
+  "name": "Crestwood Elementary",
+  "code": "P550852000924",
+  "lon": -89.4818,
+  "lat": 43.0756,
+  "students": 272,
+  "staff": 42,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "East High",
+  "code": "P550852000925",
+  "lon": -89.35427,
+  "lat": 43.097423,
+  "students": 1649,
+  "staff": 211,
+  "level": 3,
+  "sector": "public"
+ },
+ {
+  "name": "Elvehjem Elementary",
+  "code": "P550852000926",
+  "lon": -89.29255,
+  "lat": 43.078335,
+  "students": 418,
+  "staff": 55,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Emerson Elementary",
+  "code": "P550852000927",
+  "lon": -89.3526,
+  "lat": 43.1009,
+  "students": 351,
+  "staff": 49,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Milele Chikasa Anana Elementary School",
+  "code": "P550852000928",
+  "lon": -89.489937,
+  "lat": 43.040503,
+  "students": 430,
+  "staff": 66,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Allis Elementary",
+  "code": "P550852000929",
+  "lon": -89.321263,
+  "lat": 43.077254,
+  "students": 384,
+  "staff": 70,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Franklin Elementary",
+  "code": "P550852000930",
+  "lon": -89.387399,
+  "lat": 43.055587,
+  "students": 297,
+  "staff": 38,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Dr Virginia Henderson Elementary School",
+  "code": "P550852000931",
+  "lon": -89.312091,
+  "lat": 43.057957,
+  "students": 479,
+  "staff": 84,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Stephens Elementary",
+  "code": "P550852000932",
+  "lon": -89.479191,
+  "lat": 43.066029,
+  "students": 493,
+  "staff": 78,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Whitehorse Middle",
+  "code": "P550852000934",
+  "lon": -89.323567,
+  "lat": 43.092468,
+  "students": 452,
+  "staff": 70,
+  "level": 2,
+  "sector": "public"
+ },
+ {
+  "name": "Schenk Elementary",
+  "code": "P550852000935",
+  "lon": -89.324322,
+  "lat": 43.092114,
+  "students": 390,
+  "staff": 74,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Vel Phillips Memorial High",
+  "code": "P550852000937",
+  "lon": -89.5007,
+  "lat": 43.0638,
+  "students": 2025,
+  "staff": 234,
+  "level": 3,
+  "sector": "public"
+ },
+ {
+  "name": "Jefferson Middle",
+  "code": "P550852000938",
+  "lon": -89.501303,
+  "lat": 43.0657,
+  "students": 415,
+  "staff": 68,
+  "level": 2,
+  "sector": "public"
+ },
+ {
+  "name": "Kennedy Elementary",
+  "code": "P550852000939",
+  "lon": -89.297344,
+  "lat": 43.094293,
+  "students": 524,
+  "staff": 68,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Muir Elementary",
+  "code": "P550852000940",
+  "lon": -89.4948,
+  "lat": 43.0682,
+  "students": 403,
+  "staff": 70,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "LaFollette High",
+  "code": "P550852000941",
+  "lon": -89.3193,
+  "lat": 43.0636,
+  "students": 1482,
+  "staff": 179,
+  "level": 3,
+  "sector": "public"
+ },
+ {
+  "name": "Lake View Elementary",
+  "code": "P550852000942",
+  "lon": -89.3617,
+  "lat": 43.1357,
+  "students": 267,
+  "staff": 53,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Leopold Elementary",
+  "code": "P550852000944",
+  "lon": -89.421683,
+  "lat": 43.027312,
+  "students": 624,
+  "staff": 112,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Lowell Elementary",
+  "code": "P550852000946",
+  "lon": -89.340461,
+  "lat": 43.093145,
+  "students": 334,
+  "staff": 53,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Marquette Elementary",
+  "code": "P550852000948",
+  "lon": -89.357356,
+  "lat": 43.086374,
+  "students": 149,
+  "staff": 25,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "O'Keeffe Middle",
+  "code": "P550852000949",
+  "lon": -89.357356,
+  "lat": 43.086374,
+  "students": 452,
+  "staff": 72,
+  "level": 2,
+  "sector": "public"
+ },
+ {
+  "name": "Mendota Elementary",
+  "code": "P550852000950",
+  "lon": -89.383482,
+  "lat": 43.136593,
+  "students": 308,
+  "staff": 51,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Midvale Elementary",
+  "code": "P550852000951",
+  "lon": -89.4498,
+  "lat": 43.0569,
+  "students": 373,
+  "staff": 66,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Orchard Ridge Elementary",
+  "code": "P550852000952",
+  "lon": -89.475124,
+  "lat": 43.03369,
+  "students": 255,
+  "staff": 46,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Toki Middle",
+  "code": "P550852000953",
+  "lon": -89.475124,
+  "lat": 43.03369,
+  "students": 578,
+  "staff": 86,
+  "level": 2,
+  "sector": "public"
+ },
+ {
+  "name": "Randall Elementary School",
+  "code": "P550852000954",
+  "lon": -89.417216,
+  "lat": 43.068304,
+  "students": 311,
+  "staff": 44,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Sennett Middle",
+  "code": "P550852000955",
+  "lon": -89.321314,
+  "lat": 43.06305,
+  "students": 623,
+  "staff": 89,
+  "level": 2,
+  "sector": "public"
+ },
+ {
+  "name": "Huegel Elementary",
+  "code": "P550852000956",
+  "lon": -89.487813,
+  "lat": 43.024905,
+  "students": 434,
+  "staff": 70,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Gompers Elementary",
+  "code": "P550852000958",
+  "lon": -89.369061,
+  "lat": 43.14606,
+  "students": 227,
+  "staff": 42,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Black Hawk Middle",
+  "code": "P550852000959",
+  "lon": -89.3701,
+  "lat": 43.1465,
+  "students": 357,
+  "staff": 65,
+  "level": 2,
+  "sector": "public"
+ },
+ {
+  "name": "Shorewood Hills Elementary",
+  "code": "P550852000962",
+  "lon": -89.4425,
+  "lat": 43.0794,
+  "students": 381,
+  "staff": 55,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Thoreau Elementary",
+  "code": "P550852000964",
+  "lon": -89.4423,
+  "lat": 43.0461,
+  "students": 415,
+  "staff": 66,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Van Hise Elementary",
+  "code": "P550852000965",
+  "lon": -89.458036,
+  "lat": 43.066262,
+  "students": 431,
+  "staff": 55,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Hamilton Middle",
+  "code": "P550852000966",
+  "lon": -89.45879,
+  "lat": 43.065292,
+  "students": 725,
+  "staff": 97,
+  "level": 2,
+  "sector": "public"
+ },
+ {
+  "name": "West High",
+  "code": "P550852000967",
+  "lon": -89.4269,
+  "lat": 43.0688,
+  "students": 2147,
+  "staff": 243,
+  "level": 3,
+  "sector": "public"
+ },
+ {
+  "name": "Lincoln Elementary",
+  "code": "P550852002263",
+  "lon": -89.397887,
+  "lat": 43.041383,
+  "students": 374,
+  "staff": 68,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Shabazz-City High",
+  "code": "P550852002265",
+  "lon": -89.362961,
+  "lat": 43.117681,
+  "students": 121,
+  "staff": 25,
+  "level": 3,
+  "sector": "public"
+ },
+ {
+  "name": "Hawthorne Elementary",
+  "code": "P550852002410",
+  "lon": -89.32791,
+  "lat": 43.112061,
+  "students": 307,
+  "staff": 59,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Lapham Elementary",
+  "code": "P550852002412",
+  "lon": -89.371771,
+  "lat": 43.085832,
+  "students": 205,
+  "staff": 42,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Sherman Middle",
+  "code": "P550852002435",
+  "lon": -89.362157,
+  "lat": 43.118056,
+  "students": 401,
+  "staff": 65,
+  "level": 2,
+  "sector": "public"
+ },
+ {
+  "name": "4K PK Off Site",
+  "code": "P550852002475",
+  "lon": -89.395035,
+  "lat": 43.070589,
+  "students": 615,
+  "staff": 89,
+  "level": 0,
+  "sector": "public"
+ },
+ {
+  "name": "Cesar Chavez Elementary",
+  "code": "P550852002483",
+  "lon": -89.5003,
+  "lat": 43.0095,
+  "students": 607,
+  "staff": 89,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Metro School",
+  "code": "P550852002670",
+  "lon": -89.383548,
+  "lat": 43.07191,
+  "students": 19,
+  "staff": 8,
+  "level": 4,
+  "sector": "public"
+ },
+ {
+  "name": "Olson Elementary",
+  "code": "P550852002775",
+  "lon": -89.545841,
+  "lat": 43.043483,
+  "students": 442,
+  "staff": 70,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Badger Rock Middle",
+  "code": "P550852002866",
+  "lon": -89.377375,
+  "lat": 43.037784,
+  "students": 92,
+  "staff": 15,
+  "level": 2,
+  "sector": "public"
+ },
+ {
+  "name": "Capital High",
+  "code": "P550852003095",
+  "lon": -89.371742,
+  "lat": 43.085851,
+  "students": 139,
+  "staff": 34,
+  "level": 3,
+  "sector": "public"
+ },
+ {
+  "name": "Innovative High",
+  "code": "P550852003349",
+  "lon": -89.371733,
+  "lat": 43.085814,
+  "students": 132,
+  "staff": 32,
+  "level": 3,
+  "sector": "public"
+ },
+ {
+  "name": "Nuestro Mundo",
+  "code": "P550852003356",
+  "lon": -89.339539,
+  "lat": 43.061689,
+  "students": 284,
+  "staff": 49,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Marshall Early Learning Center",
+  "code": "P550879000569",
+  "lon": -89.068929,
+  "lat": 43.164322,
+  "students": 235,
+  "staff": 40,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Marshall Elementary",
+  "code": "P550879001012",
+  "lon": -89.073688,
+  "lat": 43.163245,
+  "students": 230,
+  "staff": 38,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Marshall High",
+  "code": "P550879001013",
+  "lon": -89.0757,
+  "lat": 43.164,
+  "students": 289,
+  "staff": 49,
+  "level": 3,
+  "sector": "public"
+ },
+ {
+  "name": "Marshall Middle",
+  "code": "P550879001014",
+  "lon": -89.0713,
+  "lat": 43.1648,
+  "students": 124,
+  "staff": 25,
+  "level": 2,
+  "sector": "public"
+ },
+ {
+  "name": "Conrad Elvehjem Primary School",
+  "code": "P550891001034",
+  "lon": -89.288633,
+  "lat": 43.011158,
+  "students": 471,
+  "staff": 74,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "McFarland High",
+  "code": "P550891001035",
+  "lon": -89.294971,
+  "lat": 43.011746,
+  "students": 777,
+  "staff": 104,
+  "level": 3,
+  "sector": "public"
+ },
+ {
+  "name": "Indian Mound Middle",
+  "code": "P550891001036",
+  "lon": -89.297875,
+  "lat": 43.009808,
+  "students": 531,
+  "staff": 91,
+  "level": 2,
+  "sector": "public"
+ },
+ {
+  "name": "Waubesa Intermediate",
+  "code": "P550891002172",
+  "lon": -89.283609,
+  "lat": 43.022341,
+  "students": 540,
+  "staff": 80,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "4K McFarland",
+  "code": "P550891002902",
+  "lon": -89.288633,
+  "lat": 43.011158,
+  "students": 125,
+  "staff": 8,
+  "level": 0,
+  "sector": "public"
+ },
+ {
+  "name": "Glacier Creek Middle",
+  "code": "P550951000754",
+  "lon": -89.633901,
+  "lat": 43.116297,
+  "students": 935,
+  "staff": 152,
+  "level": 2,
+  "sector": "public"
+ },
+ {
+  "name": "Sunset Ridge Elementary",
+  "code": "P550951000755",
+  "lon": -89.584606,
+  "lat": 43.113311,
+  "students": 317,
+  "staff": 44,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Kromrey Middle",
+  "code": "P550951001104",
+  "lon": -89.504535,
+  "lat": 43.105021,
+  "students": 1191,
+  "staff": 182,
+  "level": 2,
+  "sector": "public"
+ },
+ {
+  "name": "Elm Lawn Elementary",
+  "code": "P550951001105",
+  "lon": -89.500302,
+  "lat": 43.089186,
+  "students": 355,
+  "staff": 55,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Middleton High",
+  "code": "P550951001107",
+  "lon": -89.507643,
+  "lat": 43.100366,
+  "students": 2309,
+  "staff": 287,
+  "level": 3,
+  "sector": "public"
+ },
+ {
+  "name": "Northside Elementary",
+  "code": "P550951001109",
+  "lon": -89.502902,
+  "lat": 43.114414,
+  "students": 345,
+  "staff": 51,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Park Elementary",
+  "code": "P550951001110",
+  "lon": -89.658377,
+  "lat": 43.115744,
+  "students": 252,
+  "staff": 38,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Sauk Trail Elementary",
+  "code": "P550951001111",
+  "lon": -89.493382,
+  "lat": 43.099016,
+  "students": 407,
+  "staff": 74,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "West Middleton Elementary",
+  "code": "P550951001113",
+  "lon": -89.5787,
+  "lat": 43.05922,
+  "students": 364,
+  "staff": 63,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Clark Street Community School",
+  "code": "P550951002882",
+  "lon": -89.507643,
+  "lat": 43.100366,
+  "students": 100,
+  "staff": 17,
+  "level": 3,
+  "sector": "public"
+ },
+ {
+  "name": "Middleton-Cross Plains Area School District 4K",
+  "code": "P550951002888",
+  "lon": -89.509896,
+  "lat": 43.102395,
+  "students": 278,
+  "staff": 0,
+  "level": 0,
+  "sector": "public"
+ },
+ {
+  "name": "Pope Farm Elementary",
+  "code": "P550951003131",
+  "lon": -89.563055,
+  "lat": 43.078786,
+  "students": 410,
+  "staff": 55,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Taylor Prairie Elementary",
+  "code": "P550981000682",
+  "lon": -89.2059,
+  "lat": 43.0974,
+  "students": 251,
+  "staff": 36,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Cottage Grove Elementary",
+  "code": "P550981001289",
+  "lon": -89.1986,
+  "lat": 43.0843,
+  "students": 283,
+  "staff": 48,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Monona Grove High",
+  "code": "P550981001291",
+  "lon": -89.3248,
+  "lat": 43.0717,
+  "students": 1083,
+  "staff": 158,
+  "level": 3,
+  "sector": "public"
+ },
+ {
+  "name": "Glacial Drumlin School",
+  "code": "P550981001293",
+  "lon": -89.222578,
+  "lat": 43.09127,
+  "students": 768,
+  "staff": 120,
+  "level": 2,
+  "sector": "public"
+ },
+ {
+  "name": "Winnequah School",
+  "code": "P550981002343",
+  "lon": -89.339345,
+  "lat": 43.06469,
+  "students": 609,
+  "staff": 91,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Monona Grove Liberal Arts",
+  "code": "P550981002828",
+  "lon": -89.326848,
+  "lat": 43.061546,
+  "students": 81,
+  "staff": 13,
+  "level": 3,
+  "sector": "public"
+ },
+ {
+  "name": "Granite Ridge School",
+  "code": "P550981003139",
+  "lon": -89.227348,
+  "lat": 43.093513,
+  "students": 464,
+  "staff": 68,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Mount Horeb Middle",
+  "code": "P550999000385",
+  "lon": -89.728462,
+  "lat": 43.006314,
+  "students": 491,
+  "staff": 78,
+  "level": 2,
+  "sector": "public"
+ },
+ {
+  "name": "Mount Horeb Intermediate",
+  "code": "P550999001311",
+  "lon": -89.724039,
+  "lat": 43.006563,
+  "students": 523,
+  "staff": 66,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Mount Horeb High",
+  "code": "P550999001312",
+  "lon": -89.729362,
+  "lat": 43.004814,
+  "students": 793,
+  "staff": 99,
+  "level": 3,
+  "sector": "public"
+ },
+ {
+  "name": "Mount Horeb Primary Center",
+  "code": "P550999001313",
+  "lon": -89.73739,
+  "lat": 43.003695,
+  "students": 312,
+  "staff": 42,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Mount Horeb Early Learning Center",
+  "code": "P550999002318",
+  "lon": -89.736117,
+  "lat": 43.002179,
+  "students": 145,
+  "staff": 21,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Mount Horeb Area Community 4K",
+  "code": "P550999002994",
+  "lon": -89.736117,
+  "lat": 43.002179,
+  "students": 123,
+  "staff": 10,
+  "level": 0,
+  "sector": "public"
+ },
+ {
+  "name": "Brooklyn Elementary",
+  "code": "P551110001468",
+  "lon": -89.37578,
+  "lat": 42.85514,
+  "students": 358,
+  "staff": 63,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Netherwood Knoll Elementary",
+  "code": "P551110001469",
+  "lon": -89.38258,
+  "lat": 42.92848,
+  "students": 398,
+  "staff": 61,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Oregon High",
+  "code": "P551110001470",
+  "lon": -89.37227,
+  "lat": 42.93251,
+  "students": 1269,
+  "staff": 167,
+  "level": 3,
+  "sector": "public"
+ },
+ {
+  "name": "Oregon Middle",
+  "code": "P551110001471",
+  "lon": -89.37609,
+  "lat": 42.91323,
+  "students": 636,
+  "staff": 95,
+  "level": 2,
+  "sector": "public"
+ },
+ {
+  "name": "Prairie View Elementary",
+  "code": "P551110001472",
+  "lon": -89.3812,
+  "lat": 42.93,
+  "students": 350,
+  "staff": 55,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Rome Corners Intermediate",
+  "code": "P551110002524",
+  "lon": -89.39031,
+  "lat": 42.91799,
+  "students": 493,
+  "staff": 82,
+  "level": 2,
+  "sector": "public"
+ },
+ {
+  "name": "Oregon 4K",
+  "code": "P551110002841",
+  "lon": -89.381945,
+  "lat": 42.928026,
+  "students": 225,
+  "staff": 11,
+  "level": 0,
+  "sector": "public"
+ },
+ {
+  "name": "Forest Edge Elementary School",
+  "code": "P551110003134",
+  "lon": -89.37264,
+  "lat": 43.014869,
+  "students": 385,
+  "staff": 68,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Grand Avenue Elementary",
+  "code": "P551341001756",
+  "lon": -89.72299,
+  "lat": 43.285155,
+  "students": 410,
+  "staff": 55,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Sauk Prairie High",
+  "code": "P551341001759",
+  "lon": -89.7309,
+  "lat": 43.2833,
+  "students": 864,
+  "staff": 118,
+  "level": 3,
+  "sector": "public"
+ },
+ {
+  "name": "Sauk Prairie Middle",
+  "code": "P551341001760",
+  "lon": -89.7322,
+  "lat": 43.281,
+  "students": 582,
+  "staff": 82,
+  "level": 2,
+  "sector": "public"
+ },
+ {
+  "name": "Bridges Elementary",
+  "code": "P551341001761",
+  "lon": -89.73233,
+  "lat": 43.290257,
+  "students": 500,
+  "staff": 63,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Kegonsa Elementary",
+  "code": "P551455001884",
+  "lon": -89.20442,
+  "lat": 42.91621,
+  "students": 302,
+  "staff": 42,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Stoughton High",
+  "code": "P551455001886",
+  "lon": -89.2353,
+  "lat": 42.9236,
+  "students": 875,
+  "staff": 137,
+  "level": 3,
+  "sector": "public"
+ },
+ {
+  "name": "River Bluff Middle",
+  "code": "P551455001887",
+  "lon": -89.21746,
+  "lat": 42.91997,
+  "students": 582,
+  "staff": 87,
+  "level": 2,
+  "sector": "public"
+ },
+ {
+  "name": "Fox Prairie Elementary",
+  "code": "P551455002424",
+  "lon": -89.2393,
+  "lat": 42.91388,
+  "students": 388,
+  "staff": 53,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Sandhill Elementary",
+  "code": "P551455002813",
+  "lon": -89.23716,
+  "lat": 42.93633,
+  "students": 421,
+  "staff": 59,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "SASD 4K",
+  "code": "P551455003094",
+  "lon": -89.217539,
+  "lat": 42.918901,
+  "students": 187,
+  "staff": 19,
+  "level": 0,
+  "sector": "public"
+ },
+ {
+  "name": "Prairie View Middle",
+  "code": "P551464001400",
+  "lon": -89.2561,
+  "lat": 43.1847,
+  "students": 666,
+  "staff": 97,
+  "level": 2,
+  "sector": "public"
+ },
+ {
+  "name": "Patrick Marsh Middle",
+  "code": "P551464001401",
+  "lon": -89.1941,
+  "lat": 43.1992,
+  "students": 594,
+  "staff": 101,
+  "level": 2,
+  "sector": "public"
+ },
+ {
+  "name": "C H Bird Elementary",
+  "code": "P551464001898",
+  "lon": -89.227,
+  "lat": 43.1956,
+  "students": 340,
+  "staff": 70,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Eastside Elementary",
+  "code": "P551464001899",
+  "lon": -89.2036,
+  "lat": 43.1892,
+  "students": 425,
+  "staff": 63,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Northside Elementary",
+  "code": "P551464001900",
+  "lon": -89.2166,
+  "lat": 43.1938,
+  "students": 371,
+  "staff": 65,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Royal Oaks Elementary",
+  "code": "P551464001901",
+  "lon": -89.2529,
+  "lat": 43.1844,
+  "students": 449,
+  "staff": 65,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Sun Prairie East High",
+  "code": "P551464001902",
+  "lon": -89.20963,
+  "lat": 43.17319,
+  "students": 1274,
+  "staff": 173,
+  "level": 3,
+  "sector": "public"
+ },
+ {
+  "name": "Westside Elementary",
+  "code": "P551464001904",
+  "lon": -89.2359,
+  "lat": 43.1815,
+  "students": 413,
+  "staff": 86,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Horizon Elementary",
+  "code": "P551464002624",
+  "lon": -89.281,
+  "lat": 43.1885,
+  "students": 364,
+  "staff": 59,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Prairie Phoenix Academy",
+  "code": "P551464002625",
+  "lon": -89.217141,
+  "lat": 43.182006,
+  "students": 66,
+  "staff": 13,
+  "level": 3,
+  "sector": "public"
+ },
+ {
+  "name": "Creekside Elementary",
+  "code": "P551464002756",
+  "lon": -89.2541,
+  "lat": 43.1652,
+  "students": 339,
+  "staff": 70,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Sun Prairie Four Kids",
+  "code": "P551464002761",
+  "lon": -89.225782,
+  "lat": 43.175948,
+  "students": 443,
+  "staff": 36,
+  "level": 0,
+  "sector": "public"
+ },
+ {
+  "name": "Token Springs Elementary",
+  "code": "P551464003074",
+  "lon": -89.249449,
+  "lat": 43.203637,
+  "students": 430,
+  "staff": 57,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Meadow View Elementary",
+  "code": "P551464003075",
+  "lon": -89.266301,
+  "lat": 43.17937,
+  "students": 362,
+  "staff": 57,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Central Heights Middle",
+  "code": "P551464003161",
+  "lon": -89.219601,
+  "lat": 43.179502,
+  "students": 472,
+  "staff": 84,
+  "level": 2,
+  "sector": "public"
+ },
+ {
+  "name": "Sun Prairie West High",
+  "code": "P551464003162",
+  "lon": -89.272751,
+  "lat": 43.180225,
+  "students": 1294,
+  "staff": 167,
+  "level": 3,
+  "sector": "public"
+ },
+ {
+  "name": "Country View Elementary",
+  "code": "P551533000242",
+  "lon": -89.544575,
+  "lat": 43.004354,
+  "students": 396,
+  "staff": 63,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Savanna Oaks Middle",
+  "code": "P551533001149",
+  "lon": -89.452,
+  "lat": 43.0024,
+  "students": 394,
+  "staff": 63,
+  "level": 2,
+  "sector": "public"
+ },
+ {
+  "name": "Core Knowledge Charter School",
+  "code": "P551533001153",
+  "lon": -89.536649,
+  "lat": 42.995574,
+  "students": 417,
+  "staff": 46,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "New Century School",
+  "code": "P551533001186",
+  "lon": -89.535371,
+  "lat": 42.996015,
+  "students": 125,
+  "staff": 13,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Sugar Creek Elementary",
+  "code": "P551533001971",
+  "lon": -89.535644,
+  "lat": 42.999828,
+  "students": 680,
+  "staff": 91,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Verona Area High",
+  "code": "P551533001972",
+  "lon": -89.554458,
+  "lat": 42.984193,
+  "students": 1802,
+  "staff": 211,
+  "level": 3,
+  "sector": "public"
+ },
+ {
+  "name": "Badger Ridge Middle",
+  "code": "P551533001973",
+  "lon": -89.536649,
+  "lat": 42.995574,
+  "students": 733,
+  "staff": 106,
+  "level": 2,
+  "sector": "public"
+ },
+ {
+  "name": "Early Childhood",
+  "code": "P551533002285",
+  "lon": -89.537045,
+  "lat": 42.997761,
+  "students": 16,
+  "staff": 2,
+  "level": 0,
+  "sector": "public"
+ },
+ {
+  "name": "Stoner Prairie Elementary",
+  "code": "P551533002376",
+  "lon": -89.449015,
+  "lat": 43.004425,
+  "students": 381,
+  "staff": 53,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Glacier Edge Elementary",
+  "code": "P551533002647",
+  "lon": -89.517555,
+  "lat": 42.977892,
+  "students": 477,
+  "staff": 72,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Verona Area International School",
+  "code": "P551533002849",
+  "lon": -89.535371,
+  "lat": 42.996015,
+  "students": 125,
+  "staff": 13,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Verona Area K4",
+  "code": "P551533002890",
+  "lon": -89.544575,
+  "lat": 43.004354,
+  "students": 281,
+  "staff": 15,
+  "level": 0,
+  "sector": "public"
+ },
+ {
+  "name": "Waterloo Middle",
+  "code": "P551572001943",
+  "lon": -88.9922,
+  "lat": 43.1925,
+  "students": 116,
+  "staff": 15,
+  "level": 2,
+  "sector": "public"
+ },
+ {
+  "name": "Waterloo Elementary",
+  "code": "P551572001994",
+  "lon": -88.9922,
+  "lat": 43.1909,
+  "students": 285,
+  "staff": 44,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Waterloo High",
+  "code": "P551572001995",
+  "lon": -88.9922,
+  "lat": 43.1925,
+  "students": 255,
+  "staff": 34,
+  "level": 3,
+  "sector": "public"
+ },
+ {
+  "name": "Waterloo Intermediate",
+  "code": "P551572002628",
+  "lon": -88.9922,
+  "lat": 43.1925,
+  "students": 105,
+  "staff": 13,
+  "level": 2,
+  "sector": "public"
+ },
+ {
+  "name": "Waunakee Heritage Elementary",
+  "code": "P551581000269",
+  "lon": -89.454755,
+  "lat": 43.18733,
+  "students": 547,
+  "staff": 86,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Waunakee Prairie Elementary",
+  "code": "P551581001198",
+  "lon": -89.45311,
+  "lat": 43.198713,
+  "students": 533,
+  "staff": 82,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Waunakee Intermediate",
+  "code": "P551581002029",
+  "lon": -89.475024,
+  "lat": 43.175523,
+  "students": 635,
+  "staff": 101,
+  "level": 2,
+  "sector": "public"
+ },
+ {
+  "name": "Waunakee High",
+  "code": "P551581002030",
+  "lon": -89.457449,
+  "lat": 43.183781,
+  "students": 1327,
+  "staff": 188,
+  "level": 3,
+  "sector": "public"
+ },
+ {
+  "name": "Waunakee Middle",
+  "code": "P551581002031",
+  "lon": -89.456402,
+  "lat": 43.181286,
+  "students": 682,
+  "staff": 108,
+  "level": 2,
+  "sector": "public"
+ },
+ {
+  "name": "Arboretum Elementary",
+  "code": "P551581002648",
+  "lon": -89.4178,
+  "lat": 43.1764,
+  "students": 435,
+  "staff": 61,
+  "level": 1,
+  "sector": "public"
+ },
+ {
+  "name": "Waunakee Community 4K School",
+  "code": "P551581002869",
+  "lon": -89.4358,
+  "lat": 43.1806,
+  "students": 249,
+  "staff": 13,
+  "level": 0,
+  "sector": "public"
+ },
+ {
+  "name": "St Ann School",
+  "code": "V01510509",
+  "lon": -89.229824,
+  "lat": 42.92162,
+  "students": 124,
+  "staff": 21,
+  "level": null,
+  "sector": "private"
+ },
+ {
+  "name": "St John The Baptist Catholic School",
+  "code": "V01510575",
+  "lon": -89.453453,
+  "lat": 43.189109,
+  "students": 171,
+  "staff": 33,
+  "level": null,
+  "sector": "private"
+ },
+ {
+  "name": "Immaculate Heart Of Mary  Catholic School",
+  "code": "V01510611",
+  "lon": -89.32984,
+  "lat": 43.066212,
+  "students": 163,
+  "staff": 29,
+  "level": null,
+  "sector": "private"
+ },
+ {
+  "name": "St Peter Catholic School",
+  "code": "V01510622",
+  "lon": -89.540949,
+  "lat": 43.139541,
+  "students": 51,
+  "staff": 6,
+  "level": null,
+  "sector": "private"
+ },
+ {
+  "name": "St Maria Goretti",
+  "code": "V01510633",
+  "lon": -89.472366,
+  "lat": 43.034226,
+  "students": 320,
+  "staff": 42,
+  "level": null,
+  "sector": "private"
+ },
+ {
+  "name": "St James School",
+  "code": "V01510644",
+  "lon": -89.405771,
+  "lat": 43.06609,
+  "students": 101,
+  "staff": 25,
+  "level": null,
+  "sector": "private"
+ },
+ {
+  "name": "St Dennis School",
+  "code": "V01510655",
+  "lon": -89.3157,
+  "lat": 43.0905,
+  "students": 246,
+  "staff": 31,
+  "level": null,
+  "sector": "private"
+ },
+ {
+  "name": "Our Lady Queen Of Peace School",
+  "code": "V01510666",
+  "lon": -89.446099,
+  "lat": 43.059911,
+  "students": 441,
+  "staff": 68,
+  "level": null,
+  "sector": "private"
+ },
+ {
+  "name": "Edgewood High School Of The Sacred Heart",
+  "code": "V01510677",
+  "lon": -89.421479,
+  "lat": 43.059814,
+  "students": 528,
+  "staff": 64,
+  "level": null,
+  "sector": "private"
+ },
+ {
+  "name": "Edgewood Campus School",
+  "code": "V01510688",
+  "lon": -89.4206,
+  "lat": 43.0585,
+  "students": 333,
+  "staff": 46,
+  "level": null,
+  "sector": "private"
+ },
+ {
+  "name": "Blessed Sacrament School",
+  "code": "V01510699",
+  "lon": -89.422731,
+  "lat": 43.06666,
+  "students": 185,
+  "staff": 33,
+  "level": null,
+  "sector": "private"
+ },
+ {
+  "name": "Eastside Lutheran School",
+  "code": "V01512233",
+  "lon": -89.310994,
+  "lat": 43.129562,
+  "students": 96,
+  "staff": 17,
+  "level": null,
+  "sector": "private"
+ },
+ {
+  "name": "Woodland Montessori School",
+  "code": "V01512732",
+  "lon": -89.384281,
+  "lat": 43.05453,
+  "students": 10,
+  "staff": 4,
+  "level": null,
+  "sector": "private"
+ },
+ {
+  "name": "Holy Cross Lutheran School",
+  "code": "V01512903",
+  "lon": -89.287934,
+  "lat": 43.108836,
+  "students": 165,
+  "staff": 18,
+  "level": null,
+  "sector": "private"
+ },
+ {
+  "name": "Wingra School",
+  "code": "V01513474",
+  "lon": -89.434191,
+  "lat": 43.05485,
+  "students": 100,
+  "staff": 30,
+  "level": null,
+  "sector": "private"
+ },
+ {
+  "name": "Three Angels Christian School",
+  "code": "V01516125",
+  "lon": -89.314951,
+  "lat": 43.05168,
+  "students": 23,
+  "staff": 4,
+  "level": null,
+  "sector": "private"
+ },
+ {
+  "name": "Abundant Life Christian School",
+  "code": "V01933863",
+  "lon": -89.298221,
+  "lat": 43.07146,
+  "students": 292,
+  "staff": 47,
+  "level": null,
+  "sector": "private"
+ },
+ {
+  "name": "Utica Christian School",
+  "code": "V02068103",
+  "lon": -89.123901,
+  "lat": 42.96253,
+  "students": 33,
+  "staff": 6,
+  "level": null,
+  "sector": "private"
+ },
+ {
+  "name": "Blessed Trinity Catholic School",
+  "code": "VA0110288",
+  "lon": -89.501051,
+  "lat": 43.24949,
+  "students": 69,
+  "staff": 13,
+  "level": null,
+  "sector": "private"
+ },
+ {
+  "name": "Lighthouse Christian School",
+  "code": "VA0503741",
+  "lon": -89.469111,
+  "lat": 43.06855,
+  "students": 200,
+  "staff": 27,
+  "level": null,
+  "sector": "private"
+ },
+ {
+  "name": "Madinah Academy Of Madison",
+  "code": "VA0503742",
+  "lon": -89.493494,
+  "lat": 43.049484,
+  "students": 91,
+  "staff": 28,
+  "level": null,
+  "sector": "private"
+ },
+ {
+  "name": "St Ambrose Academy",
+  "code": "VA0503758",
+  "lon": -89.516057,
+  "lat": 43.055757,
+  "students": 124,
+  "staff": 20,
+  "level": null,
+  "sector": "private"
+ },
+ {
+  "name": "Operation Fresh Start",
+  "code": "VA0702482",
+  "lon": -89.346339,
+  "lat": 43.100406,
+  "students": 36,
+  "staff": 6,
+  "level": null,
+  "sector": "private"
+ },
+ {
+  "name": "Greenway Crossing Montessori",
+  "code": "VA1504113",
+  "lon": -89.4055,
+  "lat": 43.031,
+  "students": 14,
+  "staff": 4,
+  "level": null,
+  "sector": "private"
+ },
+ {
+  "name": "Holy Family School",
+  "code": "VA1504118",
+  "lon": -88.990927,
+  "lat": 43.180426,
+  "students": 28,
+  "staff": 10,
+  "level": null,
+  "sector": "private"
+ },
+ {
+  "name": "King'S Kids Academy",
+  "code": "VA1771707",
+  "lon": -89.526571,
+  "lat": 43.03447,
+  "students": 5,
+  "staff": 3,
+  "level": null,
+  "sector": "private"
+ },
+ {
+  "name": "Montessori Childrens House",
+  "code": "VA1771742",
+  "lon": -89.475671,
+  "lat": 43.04864,
+  "students": 2,
+  "staff": 2,
+  "level": null,
+  "sector": "private"
+ },
+ {
+  "name": "Blooming Grove Montessori",
+  "code": "VA1792087",
+  "lon": -89.269693,
+  "lat": 43.096693,
+  "students": 37,
+  "staff": 4,
+  "level": null,
+  "sector": "private"
+ },
+ {
+  "name": "Toad Hill Childrens House",
+  "code": "VA1792088",
+  "lon": -89.306731,
+  "lat": 43.099094,
+  "students": 5,
+  "staff": 7,
+  "level": null,
+  "sector": "private"
+ },
+ {
+  "name": "Richardson School",
+  "code": "VA1904847",
+  "lon": -89.350071,
+  "lat": 43.12757,
+  "students": 17,
+  "staff": 8,
+  "level": null,
+  "sector": "private"
+ },
+ {
+  "name": "Shoreless Lake School Wisconsin",
+  "code": "VA1904863",
+  "lon": -89.726398,
+  "lat": 43.281612,
+  "students": 12,
+  "staff": 12,
+  "level": null,
+  "sector": "private"
+ },
+ {
+  "name": "Wings To Soar Online Academy",
+  "code": "VA1904886",
+  "lon": -89.316141,
+  "lat": 43.11439,
+  "students": 135,
+  "staff": 9,
+  "level": null,
+  "sector": "private"
+ },
+ {
+  "name": "St Francis Xavier",
+  "code": "VA1990856",
+  "lon": -89.634852,
+  "lat": 43.119577,
+  "students": 177,
+  "staff": 23,
+  "level": null,
+  "sector": "private"
+ },
+ {
+  "name": "Horizon High",
+  "code": "VA2104135",
+  "lon": -89.467335,
+  "lat": 43.075719,
+  "students": 10,
+  "staff": 4,
+  "level": null,
+  "sector": "private"
+ },
+ {
+  "name": "Powerhouse Christian School",
+  "code": "VA2104143",
+  "lon": -89.283807,
+  "lat": 43.188471,
+  "students": 12,
+  "staff": 2,
+  "level": null,
+  "sector": "private"
+ },
+ {
+  "name": "Sacred Hearts Grade School",
+  "code": "VA2104147",
+  "lon": -89.210138,
+  "lat": 43.185807,
+  "students": 314,
+  "staff": 58,
+  "level": null,
+  "sector": "private"
+ },
+ {
+  "name": "Eagle School Of Madison",
+  "code": "VA9106903",
+  "lon": -89.422871,
+  "lat": 43.01049,
+  "students": 245,
+  "staff": 57,
+  "level": null,
+  "sector": "private"
+ },
+ {
+  "name": "Oaklawn Academy",
+  "code": "VA9106949",
+  "lon": -89.020741,
+  "lat": 42.87217,
+  "students": 138,
+  "staff": 15,
+  "level": null,
+  "sector": "private"
+ },
+ {
+  "name": "High Point Christian School",
+  "code": "VA9301053",
+  "lon": -89.5161,
+  "lat": 43.0764,
+  "students": 247,
+  "staff": 44,
+  "level": null,
+  "sector": "private"
+ },
+ {
+  "name": "Madison Community Montessori",
+  "code": "VA9304177",
+  "lon": -89.562601,
+  "lat": 43.11142,
+  "students": 95,
+  "staff": 19,
+  "level": null,
+  "sector": "private"
+ },
+ {
+  "name": "Capitoland Christian School",
+  "code": "VA9708282",
+  "lon": -89.4972,
+  "lat": 43.0088,
+  "students": 4,
+  "staff": 3,
+  "level": null,
+  "sector": "private"
+ },
+ {
+  "name": "Hickory Hill Academy",
+  "code": "VA9708332",
+  "lon": -89.517171,
+  "lat": 43.03422,
+  "students": 94,
+  "staff": 27,
+  "level": null,
+  "sector": "private"
+ },
+ {
+  "name": "Madison Country Day School",
+  "code": "VA9904507",
+  "lon": -89.387451,
+  "lat": 43.1623,
+  "students": 427,
+  "staff": 107,
+  "level": null,
+  "sector": "private"
+ },
+ {
+  "name": "Westside Christian School",
+  "code": "VK9306410",
+  "lon": -89.516981,
+  "lat": 43.11979,
+  "students": 183,
+  "staff": 27,
+  "level": null,
+  "sector": "private"
+ },
+ {
+  "name": "Peace Lutheran School",
+  "code": "VK9306414",
+  "lon": -89.228891,
+  "lat": 43.20098,
+  "students": 140,
+  "staff": 20,
+  "level": null,
+  "sector": "private"
+ }
+]

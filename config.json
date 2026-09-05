@@ -1,14 +1,21 @@
 {
-    "name": "Norfolk",
-    "code": "ORF",
-    "description": "Criss-cross the Chesapeake Bay to serve the sprawling Hampton Roads area.",
-    "population": 755000,
+    "code": "MSN",
+    "name": "Madison",
+    "bbox": [
+        -89.86,
+        42.83,
+        -88.99,
+        43.3
+    ],
+    "description": "Build rail lines down the bustling Madison isthmus to serve the City of Four Lakes with quality public transport.",
+    "population": 454229,
     "initialViewState": {
-	"zoom": 12,
-	"latitude": 36.913529,
-	"longitude": -76.321335,
-	"bearing": 0
-		},
+        "latitude": 43.077164,
+        "longitude": -89.382706,
+        "zoom": 12,
+        "bearing": 0
+    },
     "creator": "muffintime",
-    "version": "1.4.0"
+    "version": "4.0.0",
+    "country": "US"
 }

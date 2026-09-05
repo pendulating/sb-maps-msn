@@ -1,0 +1,24 @@
+# depot is vendored in as its own git checkout for map generation
+depot/
+
+# Map build outputs and inputs -- these ship as GitHub release assets,
+# not as repo contents.
+build/.venv/
+build/data/
+build/dist/
+build/MSN/
+build/MSN_demand/
+build/source/
+build/*.osm.pbf
+
+# US Demand Generator is cloned in as its own checkout
+us-demand/
+
+# old-bbox build outputs kept around while iterating
+
+
+__pycache__/
+*.pyc
+
+# Prior-extent build outputs kept for reference, not shipped
+
